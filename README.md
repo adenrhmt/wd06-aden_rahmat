@@ -13,7 +13,7 @@ Proyek ini adalah aplikasi manajemen poliklinik berbasis web yang dirancang untu
 3. Pendaftaran pasien ke poliklinik.
 
 # Instalasi
-1. Download repository:
+1. clone repository: Clone repository: git clone https://github.com/adenrhmt/
 2. Extract file
 3. Import database:
 - Masuk ke phpMyAdmin, buat database baru (poli_bk.sql).
